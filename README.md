@@ -10,17 +10,17 @@ You can test it here: http://chat.howtommy.net/
 
 ## Features: ##
 
-    KISS, only 2 buttons : "create a chat room" and "send a message"
-    The encryption is done by your browser, so the server doesn't know what you say
-    Every chat room has an expiration time (15 minutes to ... forever!)
-    Data is encrypted/decrypted in the browser using 256 bits AES
-    You can change the encryption key in your browser to set your own key
-    Number of online users on the chat is displayed
-    Uses Vizhash to generate an avatar for each user
-    You can set the chat room to self destroy if more than one person goes on it
+KISS, only 2 buttons : "create a chat room" and "send a message"<br>
+The encryption is done by your browser, so the server doesn't know what you say<br>
+Every chat room has an expiration time (15 minutes to ... forever!)<br>
+Data is encrypted/decrypted in the browser using 256 bits AES<br>
+You can change the encryption key in your browser to set your own key<br>
+Number of online users on the chat is displayed<br>
+Uses Vizhash to generate an avatar for each user<br>
+You can set the chat room to self destroy if more than one person goes on it<br>
 
 
-Based on Zerobin's Javascript code http://sebsauvage.net/wiki/doku.php?id=php:zerobin
+Based on Zerobin's Javascript code http://sebsauvage.net/wiki/doku.php?id=php:zerobin<br>
 Also uses Javascript Vizhash of SamEtMax http://sametmax.com/vizhash-js-notre-implementation-libre-de-hash-visuel-utilisant-html5-canvas/
 
 ## Setup ##
